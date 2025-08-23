@@ -28,7 +28,7 @@
 - **Programming Languages:** C, C++, Java  
 - **Systems & Concurrency:** Processes, Threads, Semaphores, Mutexes  
 - **Networking & IPC:** Sockets, Signals, Pipes  
-- **Cybersecurity Interests:** Secure coding, vulnerability awareness, system hardening  
+- **Cybersecurity Interests:** Penetration testing, secure coding, vulnerability assessment
 - **Tools & Practices:** Git, Makefile, Valgrind, CI/CD, Static Analysis  
 - **Project Development:** Modular code, memory-safe programming, automated tests, clean documentation
 
