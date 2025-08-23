@@ -2,19 +2,19 @@
 <h1 align="center">Hi, I'm Ali Bouknana (abouknan) 👋</h1>
 
 <p align="center">
-42 School 🇲🇦 · Systems Programming, C/C++ · Concurrency & Networking · Pen-Testing Enthusiast
+42 School 🇲🇦 · Systems Programming 💻 · C/C++ 🔧 · Concurrency & Networking 🌐 · Cybersecurity Debuter 🛡️
 </p>
 
 ---
 
 ### 💡 Skills & Expertise
 
-- **Programming Languages:** C, C++, Java  
-- **Systems & Concurrency:** Processes, Threads, Semaphores, Mutexes  
-- **Networking & IPC:** Sockets, Signals, Pipes  
-- **Cybersecurity Interests:** Penetration testing, secure coding, vulnerability assessment  
-- **Tools & Practices:** Git, Makefile, Valgrind, CI/CD, Static Analysis  
-- **Project Development:** Modular code, memory-safe programming, automated tests, clean documentation
+- **Programming Languages:** C 🔹 C++ 🔹 Java ☕  
+- **Systems & Concurrency:** Processes ⚙️, Threads 🧵, Semaphores 🔐, Mutexes 🔒  
+- **Networking & IPC:** Sockets 🌐, Signals ⚡, Pipes 🔄  
+- **Cybersecurity Interests:** Ethical hacking 🕵️‍♂️, vulnerability testing 🛡️, secure coding 🔒  
+- **Development Practices:** Modular code 🧩, memory-safe programming 💾, automated testing ✅, clean documentation 📄  
+- **Learning Journey:** Passionate about C/C++ programming 🚀, exploring system-level concepts 🖥️, and developing a foundation in cybersecurity 🛡️  
 
 ---
 
