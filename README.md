@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Ali (abouknan) 👋</h1>
 
 <p align="center">
-42 School 🇲🇦 · UM6P · Systems Programming, C/C++, Java · Concurrency & Networking
+42 School 🇲🇦 · UM6P · Systems Programming, C/C++, Java · Concurrency & Networking · Cybersecurity Enthusiast
 </p>
 
 <p align="center">
@@ -28,6 +28,7 @@
 - **Programming Languages:** C, C++, Java  
 - **Systems & Concurrency:** Processes, Threads, Semaphores, Mutexes  
 - **Networking & IPC:** Sockets, Signals, Pipes  
+- **Cybersecurity Interests:** Secure coding, vulnerability awareness, system hardening  
 - **Tools & Practices:** Git, Makefile, Valgrind, CI/CD, Static Analysis  
 - **Project Development:** Modular code, memory-safe programming, automated tests, clean documentation
 
@@ -40,6 +41,13 @@
   <img src="https://img.shields.io/badge/Tests-Automated-blue?style=for-the-badge&logo=githubactions" />
   <img src="https://img.shields.io/badge/Static_Analysis-Clean-critical?style=for-the-badge&logo=sonarqube" />
   <img src="https://img.shields.io/badge/CI-GitHub_Actions-lightgrey?style=for-the-badge&logo=github" />
+</p>
+
+---
+
+### 🔗 42 Badge
+<p align="center">
+  <img src="https://badge.mediaplus.ma/star/abouknan" alt="42 Badge" />
 </p>
 
 ---
