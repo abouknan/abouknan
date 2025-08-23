@@ -9,10 +9,6 @@
   <img src="https://github.com/abouknan/abouknan/assets/branding/banner.png" alt="profile banner" width="80%">
 </p>
 
-<p align="center">
-I am a systems programming enthusiast focused on building robust and efficient software. Experienced in C, C++, and Java, I specialize in concurrency, inter-process communication, and low-level system design. Seeking internships to apply my skills in real-world projects and contribute to innovative software solutions.
-</p>
-
 ---
 
 ### 🚀 Featured Projects
@@ -48,25 +44,7 @@ I am a systems programming enthusiast focused on building robust and efficient s
 
 ---
 
-<!-- DYNAMIC SECTION BELOW: DO NOT EDIT -->
-<!-- BEGIN:DYNAMIC -->
-_This section auto-updates daily via GitHub Actions._
-
+### 🔗 UM6P Profile / Leaderboard
 <p align="center">
-  <img src="https://badge.mediaplus.ma/star/abouknan" alt="42 Badge" />
+  <a href="https://um6p.example.com/leaderboard/abouknan" target="_blank">UM6P Leaderboard & Projects</a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abouknan&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abouknan&theme=radical" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abouknan&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<!-- Java updater will insert UM6P leaderboard rank here -->
-<!-- END:DYNAMIC -->
