@@ -9,12 +9,12 @@
 
 ### 💡 Skills & Expertise
 
-- **Programming Languages:** C 🔹 C++ 🔹 Java ☕  
-- **Systems & Concurrency:** Processes ⚙️, Threads 🧵, Semaphores 🔐, Mutexes 🔒  
+- **Programming Languages:** C 🔹 C++ 🔹
+- **Systems & Concurrency:** Processes ⚙️, Threads 🧵, Semaphores 🔐, Mutexes 🔒
 - **Networking & IPC:** Sockets 🌐, Signals ⚡, Pipes 🔄  
-- **Cybersecurity Interests:** Ethical hacking 🕵️‍♂️, vulnerability testing 🛡️, secure coding 🔒  
-- **Development Practices:** Modular code 🧩, memory-safe programming 💾, automated testing ✅, clean documentation 📄  
-- **Learning Journey:** Passionate about C/C++ programming 🚀, exploring system-level concepts 🖥️, and developing a foundation in cybersecurity 🛡️  
+- **Cybersecurity Interests:** Ethical hacking 🕵️‍♂️, pen-testing 🛡️, secure coding 🔒
+- **Development Practices:** Modular code 🧩, memory-safe programming 💾, clean documentation 📄  
+- **Learning Journey:** Passionate about C/C++ programming 🚀, exploring system-level concepts 🖥️
 
 ---
 
