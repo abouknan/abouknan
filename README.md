@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Ali Bouknana 👋</h1>
 
 <p align="center">
-42 School 🇲🇦 · Systems Programming 💻 · C/C++ 🔧 · Concurrency & Networking 🌐 · Cybersecurity Debuter 🛡️
+42 School 🇲🇦 · Systems Programming 💻 · Concurrency & Networking 🌐 · Cybersecurity Debuter 🛡️
 </p>
 
 ---
@@ -11,8 +11,6 @@
 
 - **Programming Languages:** C ⚡, C++ 🚀
 - **Systems Programming:** Memory management 🧠, low-level debugging 🛠️, Linux system calls 🐧  
-- **Concurrency & Parallelism:** Multi-threading 🧵, process control ⚙️, synchronization  
-- **Networking & IPC:** Sockets 🌐, pipes ➡️, signals 📡, client-server communication 🖧  
 - **Cybersecurity (Debuter):** Pen-testing curiosity 🔍, secure coding 🛡️, vulnerability research 🕵️  
 - **Dev Tools & Practices:** Git 🔧, Makefile 📂, Valgrind 🔎, static analysis 📊  
 - **Project Development:** Modular design 🧩, clean architecture 🏗️, test-driven mindset ✅, memory-safe code 🔐
