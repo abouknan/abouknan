@@ -1,5 +1,5 @@
 <!-- STATIC/HUMAN SECTION: safe to edit -->
-<h1 align="center">Hi, I'm Ali Bouknana (abouknan) 👋</h1>
+<h1 align="center">Hi, I'm Ali Bouknana 👋</h1>
 
 <p align="center">
 42 School 🇲🇦 · Systems Programming 💻 · C/C++ 🔧 · Concurrency & Networking 🌐 · Cybersecurity Debuter 🛡️
