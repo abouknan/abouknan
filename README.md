@@ -2,11 +2,7 @@
 <h1 align="center">Hi, I'm Ali (abouknan) 👋</h1>
 
 <p align="center">
-42 School 🇲🇦 · UM6P · Systems Programming, C/C++, Java · Concurrency & Networking · Cybersecurity Enthusiast
-</p>
-
-<p align="center">
-  <img src="https://github.com/abouknan/abouknan/assets/branding/banner.png" alt="profile banner" width="80%">
+42 School 🇲🇦 · Systems Programming, C/C++, Java · Concurrency & Networking · Pen-Testing Enthusiast
 </p>
 
 ---
@@ -28,7 +24,7 @@
 - **Programming Languages:** C, C++, Java  
 - **Systems & Concurrency:** Processes, Threads, Semaphores, Mutexes  
 - **Networking & IPC:** Sockets, Signals, Pipes  
-- **Cybersecurity Interests:** Penetration testing, secure coding, vulnerability assessment
+- **Cybersecurity Interests:** Penetration testing, secure coding, vulnerability assessment  
 - **Tools & Practices:** Git, Makefile, Valgrind, CI/CD, Static Analysis  
 - **Project Development:** Modular code, memory-safe programming, automated tests, clean documentation
 
@@ -52,7 +48,7 @@
 
 ---
 
-### 🔗 UM6P Profile / Leaderboard
+### 📊 Top Language
 <p align="center">
-  <a href="https://um6p.example.com/leaderboard/abouknan" target="_blank">UM6P Leaderboard & Projects</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abouknan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
