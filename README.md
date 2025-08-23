@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/abouknan/assets/branding/banner.png" alt="profile banner" width="80%">
+  <img src="https://github.com/abouknan/abouknan/assets/branding/banner.png" alt="profile banner" width="80%">
 </p>
 
 ---
