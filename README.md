@@ -11,9 +11,7 @@
 
 - **Programming Languages:** C ⚡, C++ 🚀
 - **Systems Programming:** Memory management 🧠, low-level debugging 🛠️, Linux system calls 🐧  
-- **Cybersecurity (Debuter):** Pen-testing curiosity 🔍, secure coding 🛡️, vulnerability research 🕵️  
-- **Dev Tools & Practices:** Git 🔧, Makefile 📂, Valgrind 🔎, static analysis 📊  
-- **Project Development:** Modular design 🧩, clean architecture 🏗️, test-driven mindset ✅, memory-safe code 🔐
+- **Cybersecurity (Debuter):** Pen-testing curiosity 🔍, secure coding 🛡️, vulnerability research 🕵️
 
 ---
 
