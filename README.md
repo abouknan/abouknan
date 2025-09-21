@@ -29,6 +29,6 @@
 ### 🔗 Badges & Top Language
 <p align="center">
   <img src="https://badge.mediaplus.ma/star/abouknan" alt="42 Badge" style="display:inline-block; margin-right:10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abouknan&layout=compact&theme=radical&langs_count=10&count_private=true" alt="Top Languages" style="display:inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abouknan&layout=compact&theme=light&langs_count=8&count_private=true" alt="Top Languages" style="display:inline-block;" />
 </p>
 
