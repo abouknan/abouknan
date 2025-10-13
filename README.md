@@ -11,7 +11,7 @@
 
 - **Programming Languages:** C ⚡, C++ 🚀  
 - **Systems Programming:** Memory management 🧠, low-level debugging 🛠️, Linux system calls 🐧  
-- **Cybersecurity (Debuter):** Pen-testing curiosity 🔍, secure coding 🛡️
+- **Cybersecurity:** Pen-testing curiosity 🔍, secure coding 🛡️
 
 ---
 
