@@ -10,6 +10,7 @@
 ### 💡 Skills & Expertise
 
 - **Programming Languages:** C ⚡, C++ 🚀  
+ - **Programming Languages:** C ⚡, C++ 🚀, JavaScript ✨, HTML5 🧩, CSS 🎨  
 - **Systems Programming:** Memory management 🧠, low-level debugging 🛠️, Linux system calls 🐧  
 - **Cybersecurity:** Pen-testing curiosity 🔍, secure coding 🛡️
 
