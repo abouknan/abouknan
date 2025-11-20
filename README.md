@@ -50,30 +50,3 @@
 <!--    - Self-host the project (https://github.com/anuraghazra/github-readme-stats) and set a GITHUB_TOKEN as an environment variable on your deployment. -->
 <!--    - Once self-hosted with a token you can add &count_private=true to the URLs to include private repositories. -->
 <!-- 3) Per-repo language breakdown: use the `repo` query parameter on the top-langs endpoint to show languages for a specific repository. -->
-
-### Show JavaScript / HTML / CSS explicitly
-
-If you want to make sure JavaScript, HTML, and CSS are visible in your README, here are a few reliable approaches (pick one or combine them):
-
-- Per-repo language card (recommended when the language lives in a single repo):
-
-  <!-- Replace REPO_NAME with your repository name -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abouknan&repo=REPO_NAME&layout=compact&theme=radical&langs_count=12" alt="Top languages for REPO_NAME" />
-
-- Increase the global languages shown by bumping langs_count (e.g., 12 or 15) so smaller languages show up:
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abouknan&layout=compact&theme=radical&langs_count=12" alt="Top languages (more slots)" />
-
-- If you want visual presence regardless of GitHub detection, add static language badges (these are decorative and not usage-accurate):
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML" />
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS" />
-  </p>
-
-- Self-host github-readme-stats and use &count_private=true if your JavaScript/HTML/CSS files are in private repos. Self-hosting also reduces caching delays for newly-created repos.
-
-Notes and troubleshooting:
-- If JavaScript is still missing from a top-langs card, check the target repository to ensure the files are not auto-generated, vendored, or minified (these can be ignored by language detection).
-- Use the per-repo card to prove the language exists (replace `REPO_NAME` with an actual repo). Once the per-repo card shows JS/HTML/CSS, consider increasing `langs_count` on the global card to include it there too.
